@@ -12,7 +12,7 @@ namespace CSVProgram
         static void Main(string[] args)
         {
             //Provide the path to your csv file
-            string csvFilePath = "C:\\Users\\Irfaan Osman\\Desktop\\Data\\Data.csv";
+            string csvFilePath = "C:/Users/Irfaan Osman/source/repos/ConsoleApp1/ConsoleApp1/Data.csv";
 
             if (!File.Exists(csvFilePath))
             {
